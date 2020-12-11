@@ -37,10 +37,10 @@
  <img src="http://m.qpic.cn/psc?/V50DZvUH1bdrBm3PtzG51VnDtD16w23J/ruAMsa53pVQWN7FLK88i5vXHCNB29brH.vu*mvJo9.5goFj3UHtlhVh.55PQEWjmE6YJvKf**CLKnOzwfnumifqSykJiz1qgjwaHjaPmpnE!/mnull&bo=agWAAoQJZQQDCS0!&rf=photolist&t=5" width="5%">
 
 ## 自我介绍
-+我是一个乐观开朗的人
-+平常最喜欢的事是打游戏 
-+也喜欢和朋友出去玩 
-+偶尔也会追追剧 
-+是一个老二次元了，哈哈哈哈 
++ 我是一个乐观开朗的人
++ 平常最喜欢的事是打游戏 
++ 也喜欢和朋友出去玩 
++ 偶尔也会追追剧 
++ 是一个老二次元了，哈哈哈哈 
 
 本人的[GitHub Page](https://github.com/wuwukai6666)
