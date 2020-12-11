@@ -1,37 +1,120 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+    
+    
+    <meta charset="UTF-8">
 
-You can use the [editor on GitHub](https://github.com/wuwukai6666/wuwukai6666.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>这里是孔一超的个人主页 (￣▽￣)~ | Jack-Kong-cyber.github.io</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="这里是孔一超的个人主页 (￣▽￣)~" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://jack-kong-cyber.github.io/" />
+<meta property="og:url" content="https://jack-kong-cyber.github.io/" />
+<meta property="og:site_name" content="Jack-Kong-cyber.github.io" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"这里是孔一超的个人主页 (￣▽￣)~","url":"https://jack-kong-cyber.github.io/","name":"Jack-Kong-cyber.github.io","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="/assets/css/style.css?v=f361a3bfcc668b03adab38043e5935d96a79b3f1">
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-### Markdown
+    <header class="page-header" role="banner">
+      <h1 class="project-name">这里是孔一超的个人主页 (￣▽￣)~</h1>
+      <h2 class="project-tagline"></h2>
+      
+      
+    </header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <main id="content" class="main-content" role="main">
+      <h1 id="这里是孔一超的个人主页-">这里是孔一超的个人主页 (￣▽￣)~</h1>
 
-```markdown
-Syntax highlighted code block
+<hr />
 
-# Header 1
-## Header 2
-### Header 3
+<h2 id="基本信息">基本信息</h2>
 
-- Bulleted
-- List
+<p><del>没什么意义的表格</del></p>
 
-1. Numbered
-2. List
+<table>
+  <thead>
+    <tr>
+      <th>出生年月</th>
+      <th>籍贯/居住地</th>
+      <th>学校/学历</th>
+      <th><img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5luViB5mYjuVXD7ir6q7waKRwP6jCGSY9wuL8itRoa6t7y1OR0FeqCeUwVfcNznE*9LdWSBUKlbPQM4jEefEUFk!/b&amp;bo=MAAwAAAAAAABByA!&amp;rf=viewer_4" alt="" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2003/01/03</td>
+      <td>山东菏泽/河北邢台</td>
+      <td>南京理工大学/大一本科</td>
+      <td>/////////</td>
+    </tr>
+  </tbody>
+</table>
 
-**Bold** and _Italic_ and `Code` text
+<hr />
 
-[Link](url) and ![Image](src)
-```
+<h2 id="个人简介">个人简介</h2>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<ul>
+  <li>本人英文名是<strong>Jack</strong></li>
+  <li>QQ:<strong>1454498852</strong></li>
+  <li>邮箱：<strong>145498852@qq.com</strong></li>
+</ul>
 
-### Jekyll Themes
+<h2 id="我的校园">我的校园</h2>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wuwukai6666/wuwukai6666.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p><img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5gYaCTmWW5H3wrnmLFjEyJ8jbkT0BTDVEeBkZ26u57CFcKKNqd0uPHC.tdcCunHTZpLRhomaNYKe.NqeYxA.BZg!/b&amp;bo=VQhABgAAAAADBzk!&amp;rf=viewer_4" width="50%" /></p>
 
-### Support or Contact
+<p>友情链接<a href="http://www.njust.edu.cn">南京理工大学官网</a></p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<hr />
+
+<h2 id="强力推荐神圣的折纸艺术-origami">强力推荐神圣的折纸艺术 [Origami]</h2>
+
+<p><img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5qszBsPQ1qozyUGmzA9rZWSMk*GofZkG9EcQ6MQd5UXZAucjUF2vWndIG6s7qu3BjbfgVltVuZUFb8vPRvaT6Mg!/b&amp;bo=OAQ4BAAAAAABByA!&amp;rf=viewer_4" width="50%" /></p>
+
+<p><a href="https://baike.baidu.com/item/%E6%97%A5%E6%9C%AC%E6%8A%98%E7%BA%B8/7112245?fr=aladdin">百度百科</a></p>
+
+<blockquote>
+  <blockquote>
+    <p>折友据点</p>
+    <ul>
+      <li><del>如果不对齐我可能会死</del></li>
+      <li><a href="https://tieba.baidu.com/f?kw=%D5%DB%D6%BD&amp;fr=ala0&amp;tpl=5">折纸吧</a></li>
+      <li>微信公众号：搜索“川渝折纸”/“折纸日常”/“折叠之间”</li>
+    </ul>
+  </blockquote>
+</blockquote>
+
+<h2 id="旷工矿工茶馆-"><del>旷工</del>矿工茶馆 <img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5o7Uhx8gqEd7lZiYeXJKpU*13iZWx85wGMpGfFUyeLL0gpgCPj1C1coFlbOI8TlViAoZTicJr6ifHgcO6*qmduU!/b&amp;bo=oQGhAQAAAAABByA!&amp;rf=viewer_4" width="5%" /></h2>
+
+<ul>
+  <li>玩玩小游戏<a href="https://passer-by.com/pacman/">吃豆人</a>【开源】由passer-by.com制作</li>
+  <li>直接上<a href="https://www.bilibili.com/">b站</a></li>
+  <li><a href="https://ai.binwang.me/couplet/">对对联</a>作者：王斌</li>
+  <li><a href="https://www.mcbbs.net">mcbbs</a></li>
+  <li>学习它不香嘛==</li>
+</ul>
+
+<p><img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5j9YSBpb31LW*AZ1M7EYzn71uLZf2PKi8dIEWKwkJj53zBVKZiXmYsapXB5Y7rdh0Bsnxz9s0BezTYKLD*MgGSg!/b&amp;bo=ngDqAAAAAAACB1c!&amp;rf=viewer_4" width="30%" /></p>
+
+<p>本人的<a href="https://github.com/Jack-Kong-cyber">GitHub Page</a> <img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5lSpx.7I9KM7udYxDnkLgRhrWFJ2g7vcmMNeQXdMCr1SXd.88jVhMD.ImXIkIFwhEwJOIzov8Q1mOdku2uG4rZs!/b&amp;bo=gAJ*AgAAAAABB98!&amp;rf=viewer_4" width="5%" /></p>
+
+
+      <footer class="site-footer">
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </main>
+  </body>
+</html>
