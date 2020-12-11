@@ -1,120 +1,50 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
-    
-    
-    <meta charset="UTF-8">
+# 这里是卢胤同学的个人主页 
 
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>这里是孔一超的个人主页 (￣▽￣)~ | Jack-Kong-cyber.github.io</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="这里是孔一超的个人主页 (￣▽￣)~" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://jack-kong-cyber.github.io/" />
-<meta property="og:url" content="https://jack-kong-cyber.github.io/" />
-<meta property="og:site_name" content="Jack-Kong-cyber.github.io" />
-<script type="application/ld+json">
-{"@type":"WebSite","headline":"这里是孔一超的个人主页 (￣▽￣)~","url":"https://jack-kong-cyber.github.io/","name":"Jack-Kong-cyber.github.io","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
+---
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=f361a3bfcc668b03adab38043e5935d96a79b3f1">
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+## 基本信息
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">这里是孔一超的个人主页 (￣▽￣)~</h1>
-      <h2 class="project-tagline"></h2>
-      
-      
-    </header>
+~~没什么意义的表格~~
 
-    <main id="content" class="main-content" role="main">
-      <h1 id="这里是孔一超的个人主页-">这里是孔一超的个人主页 (￣▽￣)~</h1>
+ |  出生年月  |  籍贯/居住地  |  学校/学历  | ![](http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5luViB5mYjuVXD7ir6q7waKRwP6jCGSY9wuL8itRoa6t7y1OR0FeqCeUwVfcNznE*9LdWSBUKlbPQM4jEefEUFk!/b&bo=MAAwAAAAAAABByA!&rf=viewer_4)|
+ |  ----  |  ----  |  ----  |  ----  |
+ |  2001/06/28  |  江苏连云港/江苏连云港  |  南京理工大学/大一本科  | /////////|
+ 
+---
 
-<hr />
+## 个人简介
+ 
+ + 本人英文名是**Tirion** 
+ + QQ:**1393942978**
+ + 邮箱：**1393942978@qq.com**
+ 
+## 我的校园
+ 
+ <img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5gYaCTmWW5H3wrnmLFjEyJ8jbkT0BTDVEeBkZ26u57CFcKKNqd0uPHC.tdcCunHTZpLRhomaNYKe.NqeYxA.BZg!/b&bo=VQhABgAAAAADBzk!&rf=viewer_4" width="50%">
 
-<h2 id="基本信息">基本信息</h2>
+友情链接[南京理工大学官网](http://www.njust.edu.cn)
 
-<p><del>没什么意义的表格</del></p>
+---
 
-<table>
-  <thead>
-    <tr>
-      <th>出生年月</th>
-      <th>籍贯/居住地</th>
-      <th>学校/学历</th>
-      <th><img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5luViB5mYjuVXD7ir6q7waKRwP6jCGSY9wuL8itRoa6t7y1OR0FeqCeUwVfcNznE*9LdWSBUKlbPQM4jEefEUFk!/b&amp;bo=MAAwAAAAAAABByA!&amp;rf=viewer_4" alt="" /></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2003/01/03</td>
-      <td>山东菏泽/河北邢台</td>
-      <td>南京理工大学/大一本科</td>
-      <td>/////////</td>
-    </tr>
-  </tbody>
-</table>
+## 强力推荐神圣的折纸艺术 [Origami]
 
-<hr />
+<img src="http://m.qpic.cn/psc?/V50DZvUH1bdrBm3PtzG51VnDtD16w23J/ruAMsa53pVQWN7FLK88i5snPEEokSZHbix2GNf1m4wY.ND5ZFXvtJPdbY5D5BjHOYlDmbC5B2U2.m9C0QAtRHYv3AoMxcQ5LPN80NBMUqyM!/mnull&bo=oAWEA6AFhAMDCSw!&rf=photolist&t=5" width="50%" /></p><p><img src="http://m.qpic.cn/psc?/V50DZvUH1bdrBm3PtzG51VnDtD16w23J/ruAMsa53pVQWN7FLK88i5u1v6CzDkyNijAPUkM*SX*XN*bSdAyXa9ffYvRE35q24EQzLh1*Q2ExQvfM*Kn06k0K3w7d0TRPpl1YwSTg*XbQ!/b&bo=gAc4BIAHOAQDCSw!&rf=viewer_4" width="50%"/>
+ <img src="http://m.qpic.cn/psc?/V50DZvUH1bdrBm3PtzG51VnDtD16w23J/45NBuzDIW489QBoVep5mcZwbwP2R0Gt55onCQbXqlyESCUw477VvarmQlzYmrbvpLR6b7b2E3F7nlqr6.zvpWiS4NS4TZ50Y85E5uyY3fd8!/b&bo=gAc4BIAHOAQDiaw!&rf=viewer_4" width="50%"/> 
+[百度百科](https://baike.baidu.com/item/%E6%97%A5%E6%9C%AC%E6%8A%98%E7%BA%B8/7112245?fr=aladdin)
 
-<h2 id="个人简介">个人简介</h2>
+>> 折友据点                                                         
+> + ~~如果不对齐我可能会死~~
++ [折纸吧](https://tieba.baidu.com/f?kw=%D5%DB%D6%BD&fr=ala0&tpl=5)
++ 微信公众号：搜索“川渝折纸”/“折纸日常”/“折叠之间”
+ 
+## ~~旷工~~矿工茶馆 <img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5o7Uhx8gqEd7lZiYeXJKpU*13iZWx85wGMpGfFUyeLL0gpgCPj1C1coFlbOI8TlViAoZTicJr6ifHgcO6*qmduU!/b&bo=oQGhAQAAAAABByA!&rf=viewer_4" width="5%">
 
-<ul>
-  <li>本人英文名是<strong>Jack</strong></li>
-  <li>QQ:<strong>1454498852</strong></li>
-  <li>邮箱：<strong>145498852@qq.com</strong></li>
-</ul>
++ 玩玩小游戏[吃豆人](https://passer-by.com/pacman/)【开源】由passer-by.com制作
++ 直接上[b站](https://www.bilibili.com/)
++ [对对联](https://ai.binwang.me/couplet/)作者：王斌
++ [mcbbs](https://www.mcbbs.net)
++ 学习它不香嘛==
 
-<h2 id="我的校园">我的校园</h2>
-
-<p><img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5gYaCTmWW5H3wrnmLFjEyJ8jbkT0BTDVEeBkZ26u57CFcKKNqd0uPHC.tdcCunHTZpLRhomaNYKe.NqeYxA.BZg!/b&amp;bo=VQhABgAAAAADBzk!&amp;rf=viewer_4" width="50%" /></p>
-
-<p>友情链接<a href="http://www.njust.edu.cn">南京理工大学官网</a></p>
-
-<hr />
-
-<h2 id="强力推荐神圣的折纸艺术-origami">强力推荐神圣的折纸艺术 [Origami]</h2>
-
-<p><img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5qszBsPQ1qozyUGmzA9rZWSMk*GofZkG9EcQ6MQd5UXZAucjUF2vWndIG6s7qu3BjbfgVltVuZUFb8vPRvaT6Mg!/b&amp;bo=OAQ4BAAAAAABByA!&amp;rf=viewer_4" width="50%" /></p>
-
-<p><a href="https://baike.baidu.com/item/%E6%97%A5%E6%9C%AC%E6%8A%98%E7%BA%B8/7112245?fr=aladdin">百度百科</a></p>
-
-<blockquote>
-  <blockquote>
-    <p>折友据点</p>
-    <ul>
-      <li><del>如果不对齐我可能会死</del></li>
-      <li><a href="https://tieba.baidu.com/f?kw=%D5%DB%D6%BD&amp;fr=ala0&amp;tpl=5">折纸吧</a></li>
-      <li>微信公众号：搜索“川渝折纸”/“折纸日常”/“折叠之间”</li>
-    </ul>
-  </blockquote>
-</blockquote>
-
-<h2 id="旷工矿工茶馆-"><del>旷工</del>矿工茶馆 <img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5o7Uhx8gqEd7lZiYeXJKpU*13iZWx85wGMpGfFUyeLL0gpgCPj1C1coFlbOI8TlViAoZTicJr6ifHgcO6*qmduU!/b&amp;bo=oQGhAQAAAAABByA!&amp;rf=viewer_4" width="5%" /></h2>
-
-<ul>
-  <li>玩玩小游戏<a href="https://passer-by.com/pacman/">吃豆人</a>【开源】由passer-by.com制作</li>
-  <li>直接上<a href="https://www.bilibili.com/">b站</a></li>
-  <li><a href="https://ai.binwang.me/couplet/">对对联</a>作者：王斌</li>
-  <li><a href="https://www.mcbbs.net">mcbbs</a></li>
-  <li>学习它不香嘛==</li>
-</ul>
-
-<p><img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5j9YSBpb31LW*AZ1M7EYzn71uLZf2PKi8dIEWKwkJj53zBVKZiXmYsapXB5Y7rdh0Bsnxz9s0BezTYKLD*MgGSg!/b&amp;bo=ngDqAAAAAAACB1c!&amp;rf=viewer_4" width="30%" /></p>
-
-<p>本人的<a href="https://github.com/Jack-Kong-cyber">GitHub Page</a> <img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5lSpx.7I9KM7udYxDnkLgRhrWFJ2g7vcmMNeQXdMCr1SXd.88jVhMD.ImXIkIFwhEwJOIzov8Q1mOdku2uG4rZs!/b&amp;bo=gAJ*AgAAAAABB98!&amp;rf=viewer_4" width="5%" /></p>
-
-
-      <footer class="site-footer">
-        
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
-      </footer>
-    </main>
-  </body>
-</html>
+ <img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5j9YSBpb31LW*AZ1M7EYzn71uLZf2PKi8dIEWKwkJj53zBVKZiXmYsapXB5Y7rdh0Bsnxz9s0BezTYKLD*MgGSg!/b&bo=ngDqAAAAAAACB1c!&rf=viewer_4" width="30%">
+ 
+本人的[GitHub Page](https://github.com/Jack-Kong-cyber) <img src="http://m.qpic.cn/psc?/V52EhUgX0YboDE1ze2qB0GEYU82zqMdY/ruAMsa53pVQWN7FLK88i5lSpx.7I9KM7udYxDnkLgRhrWFJ2g7vcmMNeQXdMCr1SXd.88jVhMD.ImXIkIFwhEwJOIzov8Q1mOdku2uG4rZs!/b&bo=gAJ*AgAAAAABB98!&rf=viewer_4" width="5%">
